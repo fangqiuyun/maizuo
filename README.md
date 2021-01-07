@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # maizuo
 
 ## Project setup
@@ -17,3 +18,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# maizuo
+>>>>>>> 7ca6c574b3a59b08d7bd1ffba9a9c77df2154f4f
